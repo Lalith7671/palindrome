@@ -12,9 +12,9 @@ namespace palindrome
         {
             //palin();//palindome of a number
             //among();//finding amstrong of 3 digit number
-            //sums();
-            //rev();
-            //reverse();
+            //sums();//sum of given digits
+            //rev();//reverse of a number method 1
+            //reverse();//reverse of a number method 2
         }
         public static void palin()
         {
